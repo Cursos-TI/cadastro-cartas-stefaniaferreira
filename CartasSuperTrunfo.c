@@ -53,7 +53,6 @@ int main() {
     printf("Digite o número de pontos turísticos: \n");
     scanf("%d", &numero01);
 
-
     // --- CARTA 2 ---
     printf("\n--- CADASTRAR CARTA 2 ---\n");
 
@@ -82,7 +81,6 @@ int main() {
     printf("Digite o número de pontos turísticos: \n");
     scanf("%d", &numero02);
 
-    
     // Área para exibição dos dados da cidade
     // --- EXIBIÇÃO DAS CARTAS ---
     printf("\n--- CARTA 1 ---\n");
